@@ -1,18 +1,13 @@
 {
   "allowed_clients": [
     {
-      "client_id": "PROD-SERVER-MOSCOW-01",
-      "ip_address": "192.168.1.100",
-      "hostname": "WMS-SERVER-MAIN",
-      "status": "active",
-      "note": "Главный сервер склада Москва"
-    },
-    {
-      "client_id": "TEST-DEV-PC",
-      "ip_address": "127.0.0.1",
-      "hostname": "DEV-PC",
-      "status": "active",
-      "note": "Тестовый компьютер разработчика"
+      "payload": {
+        "client_id": "DEV-MAIN-PC",
+        "hwid_hash": "3e1232de4a3ac0384eca2b2f991f74cbc06455ae72acc5ea915ad0e8358cafa6",
+        "status": "active",
+        "valid_until": "2030-12-31"
+      },
+      "signature": "IYaBChc+PJ+iQjHIatj43dkpEvkurJEZ6d9IA9RURmXRRCdecM0NRePPoIZ/0ZuYLm13liVktdpRdL9gNP2m00ChGwF4ud/qNmzdqw8qDwEV7Gqpl59wGqcKh2oM4KA8Quw0KunRU6tLFg926LCpmcgoA9lkHkM+lb4la4XI7n10BjLC1XRvo6HnEtbJxKs/+290lCvKGmYwrgN/rP9Ljydmc9liyLf9urj8xHZCwLvYfmhLdglSiLrJR2eYv2hX/mTiWZXi1MG2/qdeHFCur0JSHNQQE+ASgVH9LW6+SOu7gXkScTytDtpIUW/XlcLOa9TBHxhfg9KCtE/jaKc7ZQ=="
     }
   ]
 }
