@@ -3,7 +3,7 @@
     "client_id": "CLIENT-01",
     "hwid_hash": "3e1232de4a3ac0384eca2b2f991f74cbc06455ae72acc5ea915ad0e8358cafa6",
     "valid_until": "2030-12-31",
-    "status": "active"
+    "status": "blocked"
   },
   "signature": "QKouYxQiWsOPE3h+4/JfYO6PlD6Y58jsu1CL9zxw1ZS12dEtZO8dNf5ogr+xQ1ceIbSbfGJ8ZSkqZW/QhGVljBmD6WMtkTZCqlUy7qjE7rmA/79NJpAc31UrlCDP2slf71dxdz02iEWPjBIOAvP9o0+iSTzO3nM6WzRd++JwH/L36LjjNvQZHnYkiAk5YPmBKtyAadtGyvK9NF17ElmNXsmlkwqjB1qCW6RRo9z+d/4tirCS3NB0VsitmPj36mNgsFe8vRufqG0MR91FDHKWjtol/9URMnC5M9iQpJBqOZe3J7zdPHY6+zqmtzLvGSnXWrdjtlVMhDKwOkPnVDfVsg=="
 }
