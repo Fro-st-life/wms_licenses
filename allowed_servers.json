@@ -5,9 +5,7 @@
     "valid_until": "2030-12-31",
     "status": "active"
   },
-  "signature": "vXeIwG3/JX0GgbuGIPWj1grqRwI+0jy+CKbhngblxk/C39wlavc/Kl/Hk5SWKftiKfv05OCVpublgTTFjLiK1O4CSaBn3qAnO2qil/Fuhnsh+XnwbxZw6fI7idQMQwX1n2Vs4hxM5ofK94U+gk6Tb0SAOeSRX8GPKhCESVr76RJkgNrJbqQaQuotXrTzTcRYOgFrBosfbY1P50WjX6x+PjaO0xueqdtdqtn5SZCDJPJdcS7GY7SzeqOsRiL/48+dm/wAErV6xb3TfcBzsbQSYVxbYAAvyUiq7Q4p175sOV3q9Zxs/VcmjuR2UD7DKtx9ICmobFhRoUgS7UlyDZLjrw=="
-}
-{
+  "signature": "vXeIwG3/JX0GgbuGIPWj1grqRwI+0jy+CKbhngblxk/C39wlavc/Kl/Hk5SWKftiKfv05OCVpublgTTFjLiK1O4CSaBn3qAnO2qil/Fuhnsh+XnwbxZw6fI7idQMQwX1n2Vs4hxM5ofK94U+gk6Tb0SAOeSRX8GPKhCESVr76RJkgNrJbqQaQuotXrTzTcRYOgFrBosfbY1P50WjX6x+PjaO0xueqdtdqtn5SZCDJPJdcS7GY7SzeqOsRiL/48+dm/wAErV6xb3TfcBzsbQSYVxbYAAvyUiq7Q4p175sOV3q9Zxs/VcmjuR2UD7DKtx9ICmobFhRoUgS7UlyDZLjrw==",
   "payload": {
     "client_id": "SPB-CLIENT-01",
     "hwid_hash": "adb1fe7ff50a194ffc08871d89cf8f9195f6a83b1299fd9dd5caadcf9f1da93c",
