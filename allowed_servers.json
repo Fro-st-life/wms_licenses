@@ -1,14 +1,14 @@
 {
   "allowed_clients": [  
     {
-      "payload": {
-        "client_id": "SPB-CLIENT-01",
-        "hwid_hash": "669b915bc3b38bca39822cc455ea7e0fe4d60aa354a793a79d0d40215fdac574",
-        "valid_until": "2030-12-31",
-        "status": "active"
-      },
-      "signature": "vXeIwG3/JX0GgbuGIPWj1grqRwI+0jy+CKbhngblxk/C39wlavc/Kl/Hk5SWKftiKfv05OCVpublgTTFjLiK1O4CSaBn3qAnO2qil/Fuhnsh+XnwbxZw6fI7idQMQwX1n2Vs4hxM5ofK94U+gk6Tb0SAOeSRX8GPKhCESVr76RJkgNrJbqQaQuotXrTzTcRYOgFrBosfbY1P50WjX6x+PjaO0xueqdtdqtn5SZCDJPJdcS7GY7SzeqOsRiL/48+dm/wAErV6xb3TfcBzsbQSYVxbYAAvyUiq7Q4p175sOV3q9Zxs/VcmjuR2UD7DKtx9ICmobFhRoUgS7UlyDZLjrw=="
-    },
+  "payload": {
+    "client_id": "SPB-CLIENT-01",
+    "hwid_hash": "14bc3fc66fd74b216f3407b770d3facb814eade5ee9d6976e2a4d6be030f2f2b",
+    "valid_until": "2030-12-31",
+    "status": "active"
+  },
+  "signature": "iL23hJN4ACyAr1MkV1/16Y3YRipIoRXWVLujc+g0LWZgxJE5etX5dMhlgTLg6UBw+B8L3yO0Pc4BKZFJQWAW/RMEMbcHsLB2PNMvDGk+mlEY1fT420LfNCng9y6p/teLv0RqeXNsvIBVlMPCwIhoQ0PFTpb6PDegaYNYxFqauxXHZWu2FyFjnqzxjakj+4Gzl2M8sjyVMZMippLrhHNvFQrd00i6PI05r/kere0yz7Vmz6TpC22B9IXY27Vo3MoHdfLAvq5p8noSRlJv77AvYEZF4A2t8mTpitmBiN24PDbLHWDarfhjfPj5jUd/L9RzRgHg2DacrmiV0rrwkQhDwA=="
+},
     {
       "payload": {
         "client_id": "SPB-CLIENT-01",
