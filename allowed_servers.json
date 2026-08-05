@@ -17,6 +17,15 @@
         "status": "active"
       },
       "signature": "wEBQ89NWvtCATWU6rRcnaU6EkS6u4Ht9OXI9w3IAdyPtCNUnmhv6GXUbNn6DTzxM4TXWtzpW6WFOS1WYpEyhAzWnLYPbe8EqwpJjV2PtokOFu2KjKkQomhwYpCtATMk9qIVQeIxG4bRKSFmQIk9H3nFMrJyxzYxLF2IlIx5w+A1QWh23X7i9vK85LBtRla9gMNYNxwuUI7JLxLIT6nKudw/FjFnSw8qODd2SrlL2M5Hc1tezuLHf5pHCpPpw5sHNVDgvPc8aM4JGcpDWU7XKya7FxhBnvtqven0x2FT5g+jUA16WgpbTN3q3uVb7/Hnb7bwLM28KlD8PGe90ZqJP8Q=="
+    },
+    {
+      "payload": {
+        "client_id": "Home",
+        "hwid_hash": "3e1232de4a3ac0384eca2b2f991f74cbc06455ae72acc5ea915ad0e8358cafa6",
+        "valid_until": "2030-12-31",
+        "status": "active"
+      },
+      "signature": "tFTuQ38o65ORkEygVODN8bnWR4d5jXK720z9v4VMoRe5ld0lKAxDDFNlAtqxXTPFjr5b00eqAq+hIqvooOFIJ45rEwCJFHxnUDFrRAp//zgGxHAJPtuRrH8UqplzP0ZP3UEJ9QZsGNHQwKyYFy8dYCcHX3WiT92DHZCDaPn+ojk8yTggT06tCg60jHUEzuq1AOhHvhgOU5awx1riXIJ+vgILBiJuY0gcaCUN8oEiwLKxIBAoJgS7VltcOO1hwAkweQqVc7Av5zkYKbYKv4aDeArFmTu3SQulAdJkDRH9sH6tIHD+ZhIZmXYKTnnqedGzmYtZBrU5ki7wWjTaT6xp/g=="
     }
   ]
 }
